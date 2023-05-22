@@ -1,18 +1,18 @@
-# 👋 Hi, I'm J.Alberto Delgado
+## 👋 Hi, I'm J.Alberto Delgado
 
-## 💁‍♂️ About Me
+### 💁‍♂️ About Me
 I'm a 39-year-old man who is studying to become a full stack web developer. I'm passionate about programming and excited to be learning new skills and tools in the process.
 
-## 🤓 My Interests
+### 🤓 My Interests
 I love working on challenging projects that allow me to learn new things and improve my skills. I also enjoy solving problems and finding creative solutions. Outside of work, I like to read about technology and keep up with the latest trends in the programming world.
 
-## 📚 What I've Learned
+### 📚 What I've Learned
 👨‍🎓 Although I'm relatively new to the world of web development, I've studied HTML, CSS, JavaScript, and some Python. Currently, I'm learning React and planning to study Node.js and AWS among others in the future to expand my knowledge and skills in full stack web development.
 
-## 🎯 My Goals
+### 🎯 My Goals
 My long-term goal is to become a highly skilled full stack web developer and work on challenging and innovative projects. I also hope to continue learning and staying up-to-date in the field of technology.
 
-## 🌐 Social Media
+### 🌐 Social Media
 - <a href="https://www.linkedin.com/in/jalbertodelgado/" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
 - <a href="https://jadrportfolio.netlify.app/" target="_blank">WebSite</a><span> - Visit my Portfolio (currently developing)</span>
 
