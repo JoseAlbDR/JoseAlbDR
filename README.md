@@ -14,8 +14,8 @@ My long-term goal is to become a highly skilled full stack web developer and wor
 
 ### 🌐 Social Media
 - <a href="https://www.linkedin.com/in/jalbertodelgado/" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
-- <a href="https://jadrportfolio.netlify.app/" target="_blank">WebSite</a><span> - Visit my Portfolio (currently developing)</span>
-
+- <a href="https://jadrportfolio.netlify.app/" target="_blank">Netlify</a><span> - Visit my Portfolio (currently developing)</span>
+- <a href="https://https://jadelgadorobles.com/" target="_blank">With Domain Name</a><span> - Visit my Portfolio (currently developing)</span>
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlbDR)](https://github.com/JoseAlbDR/github-readme-stats)
