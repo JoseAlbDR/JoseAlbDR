@@ -13,6 +13,7 @@ I love working on challenging projects that allow me to learn new things and imp
 My long-term goal is to become a highly skilled full stack web developer and work on challenging and innovative projects. I also hope to continue learning and staying up-to-date in the field of technology.
 
 ## 🌐 Social Media
+<a href="https://www.linkedin.com/in/jalbertodelgado/" target="_blank">LinkedIn</a><span>Connect with me on LinkedIn.</span>
 - [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/) - Connect with me on LinkedIn.
 - [Portfolio1.0](https://jadrportfolio.netlify.app/) - Visit my Portfolio (currently developing)
 
