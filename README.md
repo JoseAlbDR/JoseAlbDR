@@ -14,6 +14,7 @@ My long-term goal is to become a highly skilled full stack web developer and wor
 
 ## 🌐 Social Media
 - [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/) - Connect with me on LinkedIn.
+- [Portfolio1.0](https://jadrportfolio.netlify.app/) - Visit my Portfolio (currently developing)
 
 
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
