@@ -19,8 +19,7 @@ My long-term goal is to become a highly skilled full stack web developer and wor
 
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlbDR)](https://github.com/JoseAlbDR/github-readme-stats)
-[![J.Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlbDR)](https://github.com/JoseAlbDR/github-readme-stats)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAlbDR&theme=discord_old_blurple)
 
 <!---
 JoseAlbDR/JoseAlbDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
