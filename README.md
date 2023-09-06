@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm J.Alberto Delgado
+[![wakatime](https://wakatime.com/badge/user/b2998b89-d91e-4076-871b-d683fdd1d139.svg)](https://wakatime.com/@b2998b89-d91e-4076-871b-d683fdd1d139)
 
 ### 💁‍♂️ About Me
 I'm a 39-year-old man who is studying to become a full stack web developer. I'm passionate about programming and excited to be learning new skills and tools in the process.
