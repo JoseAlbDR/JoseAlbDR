@@ -14,9 +14,9 @@ I thrive on tackling complex projects that push my boundaries and foster skill g
 My ultimate goal? To emerge as a highly skilled full-stack web developer, ready to take on innovative and challenging projects. I'm committed to perpetually expanding my tech prowess and staying at the forefront of the ever-evolving world of technology.
 
 ### 🌐 Social Media
-- <a href="https://www.linkedin.com/in/jalbertodelgado/" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
-- <a href="https://jadrportfolio.netlify.app/" target="_blank">Netlify</a><span> - Visit my Portfolio (currently developing)</span>
-- <a href="https://www.jadelgadorobles.com/" target="_blank">With Domain Name</a><span> - Visit my Portfolio (currently developing)</span>
+- <a href="https://www.linkedin.com/in/jalbertodelgado" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
+- <a href="https://www.jadero.dev" target="_blank">Netlify</a><span> - New Portfolio (Currently developing)</span>
+- <a href="https://www.jadelgadorobles.com" target="_blank"></a><span> - Old Portfolio page</span>
 
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
 
