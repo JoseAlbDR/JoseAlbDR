@@ -15,8 +15,8 @@ My ultimate goal? To emerge as a highly skilled full-stack web developer, ready 
 
 ### 🌐 Social Media
 - <a href="https://www.linkedin.com/in/jalbertodelgado" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
-- <a href="https://www.jadero.dev" target="_blank">Netlify</a><span> - New Portfolio (Currently developing)</span>
-- <a href="https://www.jadelgadorobles.com" target="_blank"></a><span> - Old Portfolio page</span>
+- <a href="https://www.jadero.dev" target="_blank">www.jadero.dev</a><span> - New Portfolio (Currently developing)</span>
+- <a href="https://www.jadelgadorobles.com" target="_blank">www.jadelgadorobles.com</a><span> - Old Portfolio page</span>
 
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
 
