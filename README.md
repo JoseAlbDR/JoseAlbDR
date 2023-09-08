@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm J.Alberto Delgado
 [![wakatime](https://wakatime.com/badge/user/b2998b89-d91e-4076-871b-d683fdd1d139.svg)](https://wakatime.com/@b2998b89-d91e-4076-871b-d683fdd1d139)
 
-### 💁‍♂️ About Me
-I'm a 39-year-old man who is studying to become a full stack web developer. I'm passionate about programming and excited to be learning new skills and tools in the process.
+## 💁‍♂️ About Me
+Hello there! I'm a passionate individual on a journey to becoming a seasoned full-stack web developer. With 39 years of life experience, I'm embracing the exciting world of programming and continually expanding my skill set.
 
-### 🤓 My Interests
-I love working on challenging projects that allow me to learn new things and improve my skills. I also enjoy solving problems and finding creative solutions. Outside of work, I like to read about technology and keep up with the latest trends in the programming world.
+## 🌟 My Interests
+I thrive on tackling complex projects that push my boundaries and foster skill growth. Problem-solving is my forte, and I take pride in finding creative solutions. Beyond coding, I'm an avid reader who keeps a finger on the pulse of the ever-evolving tech landscape.
 
-### 📚 What I've Learned
-👨‍🎓 Although I'm relatively new to the world of web development, I've studied HTML, CSS, JavaScript, and some Python. Currently, I'm learning React and planning to study Node.js and AWS among others in the future to expand my knowledge and skills in full stack web development.
+## 📖 My Learning Journey
+🎓 While I may be relatively new to the web development realm, I've immersed myself in HTML, CSS, JavaScript, and even dipped my toes into Python. Currently, my focus is on mastering React, with plans to dive into Node.js and AWS, among other exciting technologies. My dedication to continuous learning fuels my ambition.
 
-### 🎯 My Goals
-My long-term goal is to become a highly skilled full stack web developer and work on challenging and innovative projects. I also hope to continue learning and staying up-to-date in the field of technology.
+## 🚀 My Aspirations
+My ultimate goal? To emerge as a highly skilled full-stack web developer, ready to take on innovative and challenging projects. I'm committed to perpetually expanding my tech prowess and staying at the forefront of the ever-evolving world of technology.
 
 ### 🌐 Social Media
 - <a href="https://www.linkedin.com/in/jalbertodelgado/" target="_blank">LinkedIn</a><span> - Connect with me on LinkedIn.</span>
