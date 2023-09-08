@@ -24,7 +24,7 @@ Thanks for reading my README.md! Feel free to contact me if you're interested in
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseAlbDR&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseAlbDR&theme=discord_old_blurple)
 [![J.Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlbDR)](https://github.com/JoseAlbDR/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaderodev)](https://github.com/JoseAlbDR/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaderodev)](https://wakatime.com/@Jaderodev)
 <!---
 JoseAlbDR/JoseAlbDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
