@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm J.Alberto Delgado
-[![wakatime](https://wakatime.com/badge/user/b2998b89-d91e-4076-871b-d683fdd1d139.svg)](https://wakatime.com/@b2998b89-d91e-4076-871b-d683fdd1d139)
+[![wakatime](https://wakatime.com/badge/user/b2998b89-d91e-4076-871b-d683fdd1d139.svg)](https://wakatime.com/@b2998b89-d91e-4076-871b-d683fdd1d139) <span>SINCE AUG 26 2023</span>
 
 ## 💁‍♂️ About Me
 Hello there! I'm a passionate individual on a journey to becoming a seasoned full-stack web developer. With 39 years of life experience, I'm embracing the exciting world of programming and continually expanding my skill set.
