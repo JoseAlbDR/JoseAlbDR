@@ -23,10 +23,10 @@ My ultimate goal? To emerge as a highly skilled full-stack web developer, ready 
 
 Thanks for reading my README.md! Feel free to contact me if you're interested in working together on a project or if you have any questions.
 
+[![J.Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlbDR)](https://wakatime.com/@Jaderodev)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAlbDR&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseAlbDR&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseAlbDR&theme=discord_old_blurple)
-[![J.Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlbDR)](https://wakatime.com/@Jaderodev)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaderodev)](https://wakatime.com/@Jaderodev)
 <!---
 JoseAlbDR/JoseAlbDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
